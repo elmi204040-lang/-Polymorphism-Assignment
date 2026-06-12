@@ -11,8 +11,3 @@ This C# console application demonstrates the use of:
 3. In `Main()`, the `Employee` object is assigned to an `IQuittable` reference.
 4. The `Quit()` method is called using polymorphism.
 
-## Example Output
-```
-John Doe has quit the job. Best of luck!
-Press any key to exit...
-```
